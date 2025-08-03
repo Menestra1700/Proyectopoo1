@@ -29,7 +29,7 @@ relevantes del proyecto.
 
 Cómo clonar y ejecutar el proyecto
 Abrir una terminal y clonar el repositorio con el comando:
-git clone url
+git clone https://github.com/Menestra1700/Proyectopoo1/tree/main
 Abrir el proyecto en un IDE como Eclipse.
 Verificar que el proyecto esté configurado con el JDK adecuado.
 Configurar las rutas de los archivos CSV en la clase MainController, asegurándose de que apunten a 
